@@ -1,0 +1,17 @@
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\bin\Debug\net8.0\RecipeManagement.Services.deps.json
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\bin\Debug\net8.0\RecipeManagement.Services.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\bin\Debug\net8.0\RecipeManagement.Services.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\bin\Debug\net8.0\RecipeManagement.Models.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\bin\Debug\net8.0\RecipeManagement.Models.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\obj\Debug\net8.0\RecipeManagement.Services.csproj.AssemblyReference.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\obj\Debug\net8.0\RecipeManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\obj\Debug\net8.0\RecipeManagement.Services.AssemblyInfoInputs.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\obj\Debug\net8.0\RecipeManagement.Services.AssemblyInfo.cs
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\obj\Debug\net8.0\RecipeManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\obj\Debug\net8.0\RecipeMa.A9C43DB0.Up2Date
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\obj\Debug\net8.0\RecipeManagement.Services.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\obj\Debug\net8.0\refint\RecipeManagement.Services.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\obj\Debug\net8.0\RecipeManagement.Services.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\obj\Debug\net8.0\ref\RecipeManagement.Services.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\bin\Debug\net8.0\RecipeManagement.Data.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Services\bin\Debug\net8.0\RecipeManagement.Data.pdb
