@@ -7,7 +7,7 @@ namespace RecipeManagement.Data
 {
     public class RecipeData
     {
-        string _connectionString = "Data Source=DESKTOP-N5OCNK2\\SQLEXPRESS;Initial Catalog=FoodRecipe;Integrated Security=True;";
+        string _connectionString = "Server=tcp:23.102.239.48,1433;Database=FoodRecipe;User Id=sa;Password=ravencardeno_11";
 
         public List<Recipe> GetRecipes()
         {
