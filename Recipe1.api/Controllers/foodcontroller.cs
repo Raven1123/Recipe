@@ -4,7 +4,7 @@ using RecipeManagement.Services;
 
 namespace Name.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/user")]
     [ApiController]
     public class foodController : ControllerBase
     {
